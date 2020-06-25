@@ -14,7 +14,9 @@
 * 21.-28.06. clarifaction of task as stated in WhatsApp on 24.06., paragraph about ADNI, simple descriptions of how we will evaluate
 
 ### Liza
-* 13-15.05 installation and first tutorials for dipy, denoising of demo database
-* 17.05 literature review of denoising and expansions 
-* 18.05 denoising of given dataset
-* 19.05 literature review of data registration
+* 11.-17.05 general review of tools and literature regarded MRI, installation and first tutorials for dipy, denoising of demo dataset
+* 18.-24.05 literature review of preprocessing and denoising, denoising of given dataset
+* 25.05.-07.06 literature review of skull stripping, skull stripping of demo dataset, skull stripping of given dataset 
+* 08.-14.06 literature review of motion correction and data registration, motion correction of demo dataset
+* 15.-21.06 preparation of slides and speech for intermediate presentation
+* 22.-28.06 motion correction of given dataset
